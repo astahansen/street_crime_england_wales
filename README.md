@@ -12,3 +12,5 @@ Population size can be used as a proxy for absolute crime levels, due to the hig
 
 Crime levels were impacted during the nation-wide lockdowns in England and Wales, however, not to the degree one might expect. Although nearly all types of crime saw a significant drop in April 2020 anti-social behaviour soared, due to lockdown restrictions being breached during that time, mostly exceeding the drop in all other crime types combined. This meant that in most areas there was an increase in absolute crimes recorded for this period.
 The short lockdown in Novemeber 2020 did not seem to have an effect on crime rates, but for the other tow lockdowns lasting more than three months there is a clear upward trend towrads the end of the period.
+
+The storyboard for this analysis, limited to England, can be found on [Tableau](https://public.tableau.com/app/profile/asta.hansen/viz/StreetCrimeEngland/Story1).
